@@ -10,3 +10,10 @@ Details &amp; Certificates
    Coursera    | Structuring Machine Learning Projects | 머신러닝 개념(end-to-end learning, transfer learning, and multi-task learning 등) 학습  | 2018.04 - 2018.04 | 수료증(https://www.coursera.org/account/accomplishments/certificate/ZLEWYA54LMFH)
    Coursera    | Convolutional Neural Networks |  | 2018.04 - 2018.05 | 수료증(https://www.coursera.org/account/accomplishments/certificate/52XX9GKK9NSW)
    Coursera    | Sequence Models  | 2018.02 - (5월 셋째 주 수료 예정) | 진행중
+
+
+|교육기관                  | 강좌명                        | 주요내용              | 기간             | 수료여부             |
+ ----------------- | ---------------------------- | ------------------ | ------------------ | ------------------
+| Single backticks | `'Isn't this fun?'`            | 'Isn't this fun?' |
+| Quotes           | `"Isn't this fun?"`            | "Isn't this fun?" |
+| Dashes           | `-- is en-dash, --- is em-dash` | -- is en-dash, --- is em-dash |
