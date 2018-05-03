@@ -22,7 +22,7 @@
 ### 학부 때 수강한 수학 및 프로그래밍 과목
 1. 과학계산 프로그래밍(Matlab 사용)
 2. 수치해석(Matlab 사용)
-3. 계산금융(Matlab 사용)
+3. 계산금융(Matlab 사용 - Brownian motion, Monte carlo simulation 등을 이용해 2개 주식이 결합된 ELS 모형 구현)
 3. 확률 및 통계1
 4. 고급금융통계
 5. 해석개론1
