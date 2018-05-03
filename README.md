@@ -14,6 +14,6 @@ Details &amp; Certificates
 
 |교육기관                  | 강좌명                        | 주요내용              | 기간             | 수료여부             |
  ----------------- | ---------------------------- | ------------------ | ------------------ | ------------------
-| Single backticks | `'Isn't this fun?'`            | 'Isn't this fun?' |
-| Quotes           | `"Isn't this fun?"`            | "Isn't this fun?" |
-| Dashes           | `-- is en-dash, --- is em-dash` | -- is en-dash, --- is em-dash |
+| Udacity | Data Analysis Nano Degree            | 데이터분석 스킬셋 함양(Python, SQL 기초) | 2017.09 - 2018.01 | 90% 가량 마침
+| Udacity           | `"Isn't this fun?"`            | "Isn't this fun?" |
+| Coursera           | `-- is en-dash, --- is em-dash` | -- is en-dash, --- is em-dash |
