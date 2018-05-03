@@ -1,8 +1,8 @@
 # 교육
 Details &amp; Certificates
 
-| 교육기관    | 강좌명          | 주요내용          | 기간        | 수료여부   |
- ----------- | --------------- | ---------------- | ----------- | ----------
+| 교육기관    | 강좌명          | 주요내용          | 기간                  | 수료여부   |
+ ----------- | --------------- | ---------------- | --------------------- | ----------
 |    Udacity  | Data Analysis Nano Degree | 데이터분석 스킬셋 함양(Python, SQL 기초) | 2017.09 - 2018.01 | 90% 가량 마침 |
 |    Udacity    | Data Analysis Advanced Nano Degree | 고급 데이터분석(Python, R, Tableau) | 2018.02 - (5월 셋째 주 수료 예정) | 진행중 |
 |   Coursera    | Neural Networks and Deep Learning | 신경망 및 딥러닝 기초 (vectorization, gradient descent등) 학습 | 2018.02 - 2018.03 | 수료증(https://www.coursera.org/account/accomplishments/certificate/WP4TGRRXWJAY) |
