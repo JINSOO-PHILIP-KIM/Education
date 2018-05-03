@@ -9,4 +9,4 @@
 |   Coursera    |Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization | Hyperparameter tuning, Batch Normalization(Tensorflow 활용) | 2018.03 - 2018.04 | 수료증(https://www.coursera.org/account/accomplishments/certificate/2MZ7BMHM9ZJT) |
 |   Coursera    | Structuring Machine Learning Projects | 머신러닝 개념(end-to-end learning, transfer learning, and multi-task learning 등) 학습  | 2018.04 - 2018.04 | 수료증(https://www.coursera.org/account/accomplishments/certificate/ZLEWYA54LMFH) |
 |   Coursera    | Convolutional Neural Networks |  | 2018.04 - 2018.05 | 수료증 (https://www.coursera.org/account/accomplishments/certificate/52XX9GKK9NSW) |
-   Coursera    | Sequence Models  | 2018.02 - (5월 셋째 주 수료 예정) | 진행중 |
+   Coursera    | Sequence Models  | ResNet학습, R-CNN 구현(Keras 활용), YOLO를 이용한 자동차 감지, 얼굴인식,  | 2018.02 - (5월 셋째 주 수료 예정) | 진행중
