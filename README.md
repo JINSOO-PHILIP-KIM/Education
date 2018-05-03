@@ -17,8 +17,8 @@ Hyperparameter tuning, Regularization and Optimization	Hyperparameter tuning, Ba
 
 Coursera	Structuring Machine Learning Projects	머신러닝 개념(end-to-end learning, transfer learning, and multi-task learning) 학습
 
------------- | ------------- | ------------- | -------------
 교육기관 | 강좌명 | 기간 | 수료여부
+------------ | ------------- | ------------- | -------------
 Udacity  | Data Analysis Nano Degree| 2017.09 - 2018.01 |
 Udacity  | Data Analysis Advanced Nano Degree| 2018.02 - 현재|
 Coursera | Neural Networks and Deep Learning  | | https://www.coursera.org/account/accomplishments/certificate/WP4TGRRXWJAY
