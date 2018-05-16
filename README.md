@@ -1,6 +1,6 @@
 # 교육
 
-### www.udacity.com 및 www.coursera.org 에서 공부했습니다.
+### www.udacity.com 및 www.coursera.org 에서 데이터 관련 공부를 했습니다.
 | 교육기관    | 강좌명          | 주요내용          | 기간                            | 수료여부   |
  ----------- | --------------- | ---------------- | ------------------------------  | ----------
 |    Udacity  | 1) Data Analysis Nano Degree | 데이터분석 스킬셋 함양(Python, SQL 기초) | 2017.09 - 2018.01 | 90% 가량 마침 |
