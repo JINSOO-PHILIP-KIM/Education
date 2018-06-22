@@ -1,8 +1,8 @@
 # 교육이수
 
 ### www.udacity.com 및 www.coursera.org 에서 데이터 관련 공부를 했습니다.
-| 교육기관    | 강좌명          | 주요내용          | 기간                            | 수료여부   |
- ----------- | --------------- | ---------------- | ------------------------------  | ----------
+| 교육기관    | 강좌명          | 주요내용          |기간                            | 수료여부   |
+ ----------- | --------------- |:----------------:|------------------------------| ----------
 |    Udacity  | 1) Data Analysis Nano Degree | 데이터분석 스킬셋 함양(Python, SQL) | 2017.09 ~ 2018.01 | 90% 가량 마침 |
 |    Udacity    | 2) Data Analysis Advanced Nano Degree | 고급 데이터분석(Python, R, Tableau) | 2018.02 ~  | 진행중 |
 |   Coursera    | 1) Neural Networks and Deep Learning | 신경망 및 딥러닝 기초 (vectorization, gradient descent 등) 학습 | 2018.02 ~ 2018.03 | 수료증(https://www.coursera.org/account/accomplishments/certificate/WP4TGRRXWJAY) |
